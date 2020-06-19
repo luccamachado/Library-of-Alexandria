@@ -1,0 +1,2 @@
+LARGE_FONT:Verdana,12
+Terminal:Terminal,12
